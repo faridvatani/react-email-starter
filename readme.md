@@ -1,5 +1,6 @@
 # React Email Starter
-![image alt ><](/screenshot.png)
+
+![image alt ><](/Screenshot.png)
 
 A live preview right in your browser so you don't need to keep sending real emails during development.
 
